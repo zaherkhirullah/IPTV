@@ -3787,3 +3787,27 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c923944
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Le vite degli altri – Pluto TV" tvg-logo="https://i.imgur.com/nngMFi5.png" group-title="VOD Italy",Le vite degli altri – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/653660b4295b840008a70ba3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Alalam News Channel Syria (1080p)" tvg-logo="" group-title="Syria TV" tvg-id="AlalamNewsChannelSyria.sy@SD",Alalam News Channel Syria (1080p)
+https://live2.alalam.ir/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Syria TV" tvg-id="Althania.sy@SD",Althania (1080p)
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Syria TV"  tvg-id="DamascusRadio.sy@SD",Damascus Radio (720p)
+https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Syria TV"  tvg-id="HalabTodayTV.sy@SD",Halab Today TV (1080p)
+https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Syria TV"  tvg-id="RojavaTV.sy@SD",Rojava TV (1080p)
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Syria TV"  tvg-id="RonahiTV.sy@SD",Ronahi TV (1080p)
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Syria TV"  tvg-id="SyriaOne.sy@HD",Syria One (1080p)
+https://live.syriaone.tv/live/syriaone.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Syria TV"  tvg-id="SyriaTV.sy@SD",Syria TV (1080p)
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Syria TV"  tvg-id="SyriaTV.sy@SD",Syria TV (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Syria TV"  tvg-id="SyriaTV.sy@SD",Syria TV (1080p)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Syria TV"  tvg-id="WelatTV.sy@HD",Welat TV (1080i)
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Syria TV"  tvg-id="AlSouriyaTV.sy@HD",Al-Souriya TV (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
